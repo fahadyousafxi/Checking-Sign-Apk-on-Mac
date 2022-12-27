@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-I make the sign apk by using the following cmd on MacBook and it worked:
+## I make the sign apk by using the following cmd on MacBook and it worked:
 
 keytool -genkey -v -keystore ~/upload-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload -storetype JKS
 
